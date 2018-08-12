@@ -1,0 +1,3 @@
+[submodule "in_container/in_chroot/functions"]
+	path = in_container/in_chroot/functions
+	url = git@github.com:osimg/functions.git
